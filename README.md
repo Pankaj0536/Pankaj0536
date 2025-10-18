@@ -43,7 +43,7 @@
 
 <h1>
 🎗️Contributions
-</h1>
+</h1> 
 <div align="center">
   
 ![snake gif](https://github.com/lakshyajain1508/Pankaj0536/blob/output/github-snake.svg)
@@ -75,7 +75,6 @@ Badges
 
 </div>
 
-
 ---
 
 ### 🗂️ Currently Learning
@@ -85,7 +84,6 @@ Badges
 - 🐍 learning **Python**
 
 ---
-
 
 ### 🌐 Let’s Connect
 
