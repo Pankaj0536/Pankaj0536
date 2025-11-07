@@ -17,7 +17,6 @@
 - 🛠️ Currently working on:
   - 🔗 Improving my **DSA** skills using C
   - 💻 learning python programming
-  - 📚 Exploring open-source projects
 - 💌 Reach me at: **pankajrana2754@gmail.com**
 
 ---
