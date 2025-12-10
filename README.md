@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+👨‍💻;I'm+a+student+at+Mumbai+University;Always+Learning+🚀;Building+Tech+that+Matters!&center=true&width=500&height=45">
 </p>
-
 ---
 
 ### 📌 About Me
