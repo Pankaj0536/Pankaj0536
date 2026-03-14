@@ -12,9 +12,9 @@
 ### 📌 About Me
 
 - 🧑‍🎓 I’m a **Computer Engineering student** at **Mumbai University**  
-- 🔥 I’m deeply passionate about **DSA**,**SQL**, and **problem-solving**  
+- 🔥 I’m deeply passionate **TO learn New things**
 - 🛠️ Currently working on:
-  - 🔗 Improving my **DSA** skills using C
+  - 🔗 Improving my **DSA** skills using C/C++
   - 💻 learning python programming
 - 💌 Reach me at: **pankajrana2754@gmail.com**
 
