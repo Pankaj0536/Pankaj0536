@@ -75,7 +75,6 @@ Badges
 ### 🗂️ Currently Learning
 
 - 🔥 Advanced **DSA** concepts & Leetcode problems  
-- 🧠 **SQL** 
 - 🐍 learning **Python**
 
 ---
