@@ -62,21 +62,8 @@ Badges
 
 #### My GitHub Stats
 
-<!-- Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app?user=Pankaj0536&theme=dark&hide_border=true" />
-<br>
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Pankaj0536&theme=dark&hide_border=true" /> -->
-
-<!-- <br> -->
-
-
-<!-- <div align="center"> -->
-
-
-
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj0536&layout=compact&langs_count=6&theme=dark&hide_border=true" /> -->
+<!-- hello this is pankanj here! -->
+[![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pankaj0536)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
