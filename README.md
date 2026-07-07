@@ -61,47 +61,23 @@ Badges
 
 <div align="center">
 
-#### My GitHub Stats
 
-<!-- Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app?user=Pankaj0536&theme=dark&hide_border=true" />
-<br>
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Pankaj0536&theme=dark&hide_border=true" /> -->
-
-<!-- <br> -->
-
-
-<!-- <div align="center"> -->
-
-
-
-<!-- <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj0536&layout=compact&langs_count=6&theme=dark&hide_border=true" /> -->
-
-</div>
-
-</div>
-
----
-
-### 🗂️ Currently Learning
-
-- 🔥 Advanced **DSA** concepts & Leetcode problems  
-- 🐍 learning **Python**
-
----
-
-### 🌐 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pankaj0536/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Pankaj0536)  
-📬 **Email:** pankajrana2754@gmail.com
-
----
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
+<a href="https://www.linkedin.com/in/pankaj0536/">
+<img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/rana_panka34979">
+<img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:pankajrana2754@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
