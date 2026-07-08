@@ -1,13 +1,5 @@
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Pankaj%20Rana&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Digital%20Universe%20🚀&descAlignY=55"/>
-</p>
-
-
-
----
-<p align="center">
-  <img src="svgs\pacman-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 
 ---
@@ -37,9 +29,22 @@
 </h1> 
 <div align="center">
   
-![snake gif](https://github.com/lakshyajain1508/Pankaj0536/blob/output/github-snake.svg)
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Pankaj0536/Pankaj0536/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Pankaj0536/Pankaj0536/output/pacman-contribution-graph.svg">
+    <img 
+      alt="pacman contribution graph"
+      src="https://raw.githubusercontent.com/Pankaj0536/Pankaj0536/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 </div>
 
+--- 
 
 ## 🌐 Connect With Me
 <p align = "center">
