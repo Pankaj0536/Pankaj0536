@@ -1,29 +1,18 @@
 
-<h1 align="center">Hey there! 👋 I'm Pankaj</h1>
-<h3 align="center">🚀 Passionate Computer Engineering Student | 💡 Tech Explorer | 🎯 Future Innovator</h3>
- 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Pankaj%20Rana&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Digital%20Universe%20🚀&descAlignY=55"/>
+</p>
+
+
+
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+👨‍💻;I'm+a+student+at+Mumbai+University;Always+Learning+🚀;Building+Tech+that+Matters!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+👨‍💻;I'm+a+Student+👨‍🎓+at+Mumbai+University;Always+Learning+🚀;Building+Tech+🤖+that+Matters;I+❤️+to+read+Books+📖+in+my+free+time!&center=true&width=500&height=45">
 </p>
 
 ---
 
-### 📌 About Me
-
-- 🧑‍🎓 I’m a **Computer Engineering student** at **Mumbai University**  
-- 🔥 I’m deeply passionate **TO learn New things**
-- 🛠️ Currently working on:
-  - 🔗 Improving my **DSA** skills using C/C++
-  - 💻 learning python programming
-- 💌 Reach me at: **pankajrana2754@gmail.com**
-
----
-
-### 🎯 Tech Stack
-
-#### 💻 Languages
-# 🛠️ My Tech Stack 
+## 🛠️ My Tech Stack 
 
 [![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Pankaj0536/C-PROGRAMMING-CODES)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Pankaj0536/CPP-PROGRAMMING-CODES)
@@ -35,7 +24,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Pankaj0536/DOCKER)
 
-#### 🛠 Tools & Platforms
+## 🛠 Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -49,22 +38,11 @@
 <div align="center">
   
 ![snake gif](https://github.com/lakshyajain1508/Pankaj0536/blob/output/github-snake.svg)
-  
 </div>
-
-<h1>
-<a href="https://github.com/Pankaj0536">
-<img src="https://github.com/Pankaj0536/Pankaj0536/blob/main/gif/stats.gif" width="45">
-</a> 
-Badges
-</h1>
-
-<div align="center">
 
 
 ## 🌐 Connect With Me
-
-<p align="center">
+<p align = "center">
 
 <a href="https://www.linkedin.com/in/pankaj0536/">
 <img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
