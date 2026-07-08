@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub+👨‍💻;I'm+a+Student+👨‍🎓+at+Mumbai+University;Always+Learning+🚀;Building+Tech+🤖+that+Matters;I+❤️+to+read+Books+📖+in+my+free+time!&center=true&width=500&height=45">
+  <img src="svgs\pacman-dark.svg" alt="Pacman Contribution Graph" />
 </p>
 
 ---
