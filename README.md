@@ -40,7 +40,8 @@
     <img 
       alt="pacman contribution graph"
       src="https://github.com/Pankaj0536/Pankaj0536/raw/main/svgs/pacman-dark.svg">
-  </picture>
+      
+  </picture></img>
 </p>
 </div>
 
