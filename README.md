@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/rana_panka34979">
+<a href="https://x.com/Hey_P4JR2A">
 <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
