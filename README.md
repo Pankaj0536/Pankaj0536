@@ -185,28 +185,33 @@ From **programming fundamentals** to **AI concepts, web development and product 
 
 <br>
 
-<!-- ======================= GITHUB ======================= -->
+<!-- ======================= GITHUB ACTIVITY ======================= -->
 
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj0536&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C83FD&icon_color=7C83FD&text_color=FFFFFF&rank_icon=github&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj0536&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C83FD&text_color=FFFFFF&langs_count=6" height="170"/>
+  <i>Building consistently. Learning continuously. 🚀</i>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pankaj0536&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C83FD&fire=7C83FD&currStreakLabel=FFFFFF"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj0536&bg_color=0D1117&color=FFFFFF&line=7C83FD&point=FFFFFF&area=true&hide_border=true"
+    alt="Pankaj's GitHub Activity Graph"
+  />
 </p>
 
 <br>
 
 <!-- ======================= PACEMAN ======================= -->
 
-<h2 align="center">🐍 Watch My Contributions Move</h2>
+<h2 align="center">🟡 Watch My Contributions Eat</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pankaj0536/Pankaj0536/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p> 
+  <img
+    src="https://raw.githubusercontent.com/Pankaj0536/Pankaj0536/output/pacman-contribution-graph.svg"
+    alt="Pac-Man Contribution Graph"
+  />
+</p>
 
 <br>
 
