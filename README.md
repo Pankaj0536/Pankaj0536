@@ -30,12 +30,6 @@
   <b>ideas → code → experiments → real-world solutions.</b>
 </p>
 
-<p align="center">
-  Currently exploring <b>AI • Computer Vision • Software Development • DSA</b>
-  <br>
-  while constantly looking for the next interesting problem to solve.
-</p>
-
 <br>
 
 <!-- ======================= CURRENT FOCUS ======================= -->
@@ -206,13 +200,13 @@ From **programming fundamentals** to **AI concepts, web development and product 
 
 <br>
 
-<!-- ======================= SNAKE ======================= -->
+<!-- ======================= PACEMAN ======================= -->
 
 <h2 align="center">🐍 Watch My Contributions Move</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Pankaj0536/Pankaj0536/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+</p> 
 
 <br>
 
@@ -228,12 +222,6 @@ From **programming fundamentals** to **AI concepts, web development and product 
 <img src="https://img.shields.io/badge/Hackathons-Participating-7C83FD?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Ideas-Experimenting-7C83FD?style=for-the-badge"/>
 
-</p>
-
-<p align="center">
-  <br>
-  <b>Learn → Build → Fail → Understand → Build Better</b>
-</p>
 
 <br>
 
