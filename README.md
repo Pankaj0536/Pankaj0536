@@ -1,69 +1,270 @@
+<!-- ======================= HERO ======================= -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Pankaj%20Rana&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Exploring%20the%20Digital%20Universe%20🚀&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pankaj%20Rana&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&descAlignY=60&descSize=16&descColor=ffffff"/>
 </p>
 
----
-
-## 🛠️ My Tech Stack 
-
-[![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Pankaj0536/C-PROGRAMMING-CODES)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Pankaj0536/CPP-PROGRAMMING-CODES)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Pankaj0536/WEB-DEVELOPMENT-CODES)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Pankaj0536/WEB-DEVELOPMENT-CODES)
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/Pankaj0536/Figma)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Pankaj0536/PYTHON-PROGRAMMING)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Pankaj0536/DOCKER)
-
-## 🛠 Tools & Platforms
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
-
----
-
-<h1>
-🎗️Contributions
-</h1> 
-<div align="center">
-  
 <p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/Pankaj0536/Pankaj0536/raw/main/svgs/pacman-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github.com/Pankaj0536/Pankaj0536/raw/main/svgs/pacman-dark.svg">
-    <img 
-      alt="pacman contribution graph"
-      src="https://github.com/Pankaj0536/Pankaj0536/raw/main/svgs/pacman-dark.svg">
-      
-  </picture></img>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=7C83FD&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%F0%9F%92%BB;Developer+%7C+Problem+Solver+%7C+Builder+%F0%9F%9A%80;Exploring+AI%2C+Computer+Vision+%26+Web+Development;Turning+Ideas+into+Working+Projects"/>
 </p>
-</div>
 
---- 
+<p align="center">
+  <a href="https://github.com/Pankaj0536">
+    <img src="https://img.shields.io/github/followers/Pankaj0536?style=flat-square&logo=github&label=Followers"/>
+  </a>
+  <a href="https://github.com/Pankaj0536">
+    <img src="https://img.shields.io/github/stars/Pankaj0536?style=flat-square&logo=github&label=Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Pankaj0536&style=flat-square&color=7C83FD&label=Profile+Views"/>
+</p>
 
-## 🌐 Connect With Me
-<p align = "center">
+<br>
+
+<!-- ======================= INTRO ======================= -->
+
+<h2 align="center">⚡ Building Things That Matter</h2>
+
+<p align="center">
+  I'm <b>Pankaj</b> — a Computer Engineering student who enjoys turning
+  <br>
+  <b>ideas → code → experiments → real-world solutions.</b>
+</p>
+
+<p align="center">
+  Currently exploring <b>AI • Computer Vision • Software Development • DSA</b>
+  <br>
+  while constantly looking for the next interesting problem to solve.
+</p>
+
+<br>
+
+<!-- ======================= CURRENT FOCUS ======================= -->
+
+<h2>🚀 What I'm Into Right Now</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+### 🧠
+
+**Problem Solving**
+
+DSA
+Algorithms
+Logical Thinking
+
+</td>
+
+<td align="center" width="200">
+
+### 🤖
+
+**AI & Vision**
+
+Computer Vision
+OpenCV
+AI Applications
+
+</td>
+
+<td align="center" width="200">
+
+### 🌐
+
+**Development**
+
+Web Development
+Python
+Software Projects
+
+</td>
+
+<td align="center" width="200">
+
+### 💡
+
+**Building**
+
+Hackathons
+Product Ideas
+Experiments
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= TECH ======================= -->
+
+<h2>🛠️ Technologies I Work With</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,opencv,tensorflow,git,github,docker,figma,vscode&perline=7"/>
+
+</p>
+
+<p align="center">
+  <i>Not trying to know everything — trying to build better with what I know.</i>
+</p>
+
+<br>
+
+<!-- ======================= FEATURED ======================= -->
+
+<h2>🔥 Things I'm Building</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 Smart Attendance Management System
+
+An AI-powered attendance system exploring **face detection, recognition and automated attendance**.
+
+**Stack**
+
+`Python` `OpenCV` `DeepFace` `TensorFlow` `Streamlit`
+
+<br>
+
+<a href="https://github.com/Pankaj0536">
+  <img src="https://img.shields.io/badge/Explore_Project-7C83FD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💡 Experimental Projects
+
+I enjoy building small experiments to understand how things actually work.
+
+From **programming fundamentals** to **AI concepts, web development and product ideas**.
+
+<br>
+
+<a href="https://github.com/Pankaj0536">
+  <img src="https://img.shields.io/badge/View_My_Work-24243e?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= PHILOSOPHY ======================= -->
+
+<h2 align="center">🧩 My Development Loop</h2>
+
+<p align="center">
+
+```text
+       💡 IDEA
+         │
+         ▼
+      🔍 EXPLORE
+         │
+         ▼
+      💻 BUILD
+         │
+         ▼
+      💥 BREAK
+         │
+         ▼
+      🐛 DEBUG
+         │
+         ▼
+      🚀 IMPROVE
+         │
+         └──────────────► BUILD AGAIN
+```
+
+</p>
+
+<p align="center">
+  <b>Every bug teaches something. Every project leaves something behind.</b>
+</p>
+
+<br>
+
+<!-- ======================= GITHUB ======================= -->
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pankaj0536&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C83FD&icon_color=7C83FD&text_color=FFFFFF&rank_icon=github&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj0536&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C83FD&text_color=FFFFFF&langs_count=6" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pankaj0536&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7C83FD&fire=7C83FD&currStreakLabel=FFFFFF"/>
+</p>
+
+<br>
+
+<!-- ======================= SNAKE ======================= -->
+
+<h2 align="center">🐍 Watch My Contributions Move</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pankaj0536/Pankaj0536/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+<br>
+
+<!-- ======================= JOURNEY ======================= -->
+
+<h2>🎯 The Road Ahead</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-Improving-7C83FD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Exploring-7C83FD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web-Building-7C83FD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hackathons-Participating-7C83FD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ideas-Experimenting-7C83FD?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+  <br>
+  <b>Learn → Build → Fail → Understand → Build Better</b>
+</p>
+
+<br>
+
+<!-- ======================= CONNECT ======================= -->
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/pankaj0536/">
-<img src="https://img.shields.io/badge/LinkedIn-Pankaj%20Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://x.com/Hey_P4JR2A">
-<img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:pankajrana2754@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
----
+<br>
 
-_<b>Thank you for visiting! 🚀 Let’s build something awesome together!_
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+  <i>"The best way to learn technology is to build something with it."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+</p>
