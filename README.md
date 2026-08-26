@@ -193,12 +193,12 @@ From **programming fundamentals** to **AI concepts, web development and product 
   <i>Building consistently. Learning continuously. 🚀</i>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj0536&bg_color=0D1117&color=FFFFFF&line=7C83FD&point=FFFFFF&area=true&hide_border=true"
     alt="Pankaj's GitHub Activity Graph"
   />
-</p>
+</p> -->
 
 <br>
 
