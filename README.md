@@ -124,7 +124,7 @@ An AI-powered attendance system exploring **face detection, recognition and auto
 
 <br>
 
-<a href="https://github.com/Pankaj0536">
+<a href="https://github.com/Pankaj0536?tab=repositories">
   <img src="https://img.shields.io/badge/Explore_Project-7C83FD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -140,7 +140,7 @@ From **programming fundamentals** to **AI concepts, web development and product 
 
 <br>
 
-<a href="https://github.com/Pankaj0536">
+<a href="https://github.com/Pankaj0536?tab=repositories">
   <img src="https://img.shields.io/badge/View_My_Work-24243e?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
