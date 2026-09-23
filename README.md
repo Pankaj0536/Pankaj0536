@@ -1,6 +1,6 @@
 <!-- ======================= HERO ======================= -->
 
-<p align="center">
+<p align="center">   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Pankaj%20Rana&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20BREAK%20%E2%80%A2%20LEARN%20%E2%80%A2%20REPEAT&descAlignY=60&descSize=16&descColor=ffffff"/>
 </p>
 
