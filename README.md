@@ -124,7 +124,7 @@ An AI-powered attendance system exploring **face detection, recognition and auto
 
 <br>
 
-<a href="https://github.com/Pankaj0536?tab=repositories">
+<a href="https://github.com/Pankaj0536/SAMS">
   <img src="https://img.shields.io/badge/Explore_Project-7C83FD?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -192,13 +192,6 @@ From **programming fundamentals** to **AI concepts, web development and product 
 <p align="center">
   <i>Building consistently. Learning continuously. 🚀</i>
 </p>
-
-<!-- <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Pankaj0536&bg_color=0D1117&color=FFFFFF&line=7C83FD&point=FFFFFF&area=true&hide_border=true"
-    alt="Pankaj's GitHub Activity Graph"
-  />
-</p> -->
 
 <br>
 
